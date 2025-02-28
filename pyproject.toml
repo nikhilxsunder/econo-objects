@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "econo-objects"
-version = "0.0.2"
+version = "0.0.3"
 dependencies = [
 "fedfred",
 "matplotlib",
@@ -20,7 +20,7 @@ maintainers = [
   {name="Nikhil Sunder", email="nsunder724@gmail.com"}
 ]
 description = "A simple python package for creating economic models and data objects using FRED API data."
-readme = "README.md"
+readme = "README.rst"
 classifiers = [
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: GNU Affero General Public License v3",
@@ -35,4 +35,4 @@ keywords = ["fred", "federal reserve", "economics", "econometrics", "time series
 [project.urls]
 Repository = "https://github.com/nikhilxsunder/econo-objects"
 Issues = "https://github.com/nikhilxsunder/econo-objects/issues"
-Documentation = "https://econo-objects.readthedocs.io/en/"
+Documentation = "https://econo-objects.readthedocs.io/en/latest"
