@@ -20,7 +20,7 @@ maintainers = [
   {name="Nikhil Sunder", email="nsunder724@gmail.com"}
 ]
 description = "A simple python package for creating economic models and data objects using FRED API data."
-readme = "README.md"
+readme = "README.rst"
 classifiers = [
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: GNU Affero General Public License v3",
