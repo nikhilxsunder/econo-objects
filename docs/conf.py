@@ -4,7 +4,7 @@ sys.path.insert(0, os.path.abspath('..'))
 
 project = 'econo-objects'
 author = 'Nikhil Sunder'
-release = '0.4'
+release = '0.3'
 
 extensions = ['sphinx.ext.autodoc', 'sphinx.ext.napoleon']
 

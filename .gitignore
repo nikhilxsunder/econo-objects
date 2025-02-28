@@ -79,6 +79,11 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# Ignore Sphinx build directory
+docs/_build/
+docs/_static/
+docs/_templates/
+
 # Other
 vscode/
 launch.json
